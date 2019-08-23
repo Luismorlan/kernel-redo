@@ -1,0 +1,10 @@
+/home/weilunchen/Documents/weenix/kernel/main/gdt.gdb
+/home/weilunchen/Documents/weenix/kernel/mm/pagetable.gdb
+/home/weilunchen/Documents/weenix/kernel/mm/memcheck.py
+/home/weilunchen/Documents/weenix/kernel/mm/page.py
+/home/weilunchen/Documents/weenix/kernel/mm/slab.py
+/home/weilunchen/Documents/weenix/kernel/proc/kthread.gdb
+/home/weilunchen/Documents/weenix/kernel/proc/proc.py
+/home/weilunchen/Documents/weenix/kernel/util/debug.py
+/home/weilunchen/Documents/weenix/kernel/util/list.py
+/home/weilunchen/Documents/weenix/kernel/vm/vmmap.gdb
