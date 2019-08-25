@@ -2,7 +2,7 @@ This file contains quick instructions for getting Weenix to run on
 Redhat-derived or Debian-derived Linux flavors.  See the documentation in doc/
 for detailed instructions.
 
-1. Download and install dependencies.
+1. ownload and install dependencies.
 
    On recent versions of Ubuntu or Debian, you can simply run:
 
